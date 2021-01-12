@@ -26,7 +26,7 @@ SECRET_KEY = 'r3jnrd$quu7ls*#=1q2hnle$mwa=#b-_ukq4^epbrfs^bxu+#1'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['localhost', 'orayeb.herokuapp.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'orayeb.herokuapp.com']
 
 
 # Application definition
